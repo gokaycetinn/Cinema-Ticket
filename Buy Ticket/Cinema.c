@@ -202,14 +202,14 @@ else if (level == 'C' || level == 'C')
 }
 //6
 
-//7
+
 void printCashInfo()
 
 {
     printf("\n\nTotal bill : %d TL\n", money);
     
 }
-//8
+//7
 void printTickets(int *A, int *B, int *C, int *D)
 
 {
@@ -219,7 +219,7 @@ void printTickets(int *A, int *B, int *C, int *D)
     printf("\t\t\tLevel C : %d\n", *C);
     printf("\t\t\tLevel D : %d\n", *D);
 }
-//9
+//8
 int CalculateBill(int price, int num)
 
 {
